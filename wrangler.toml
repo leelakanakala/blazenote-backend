@@ -7,12 +7,11 @@ compatibility_flags = [ "nodejs_compat" ]
 pattern = "blazenote-backend.feisty-quasar.sxplab.com"
 custom_domain = true
 
-
-# [[d1_databases]]
-# binding = "DB"
-# database_name = "blazenote"
-# database_id = "<DATABASE ID>"
-# migrations_dir = "./migrations"
+[[d1_databases]]
+binding = "DB"
+database_name = "blazenote"
+database_id = "b35c390e-b0d0-4d8e-9f49-09b18fe1a138"
+migrations_dir = "./migrations"
 
 # [ai]
 # binding = "AI"
