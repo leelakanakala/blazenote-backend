@@ -1,6 +1,6 @@
 # blazenote-api (for backend)
 
-This repository is part of the BlazeHack Workshop Series, designed to help participants build scalable, secure apps using Cloudflare services. #updated
+This repository is part of the BlazeHack Workshop Series, designed to help participants build scalable, secure apps using Cloudflare services. #updated to a new version
 
 In this workshop, we will be using the following repos:
 
