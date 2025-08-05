@@ -12,7 +12,7 @@ const app = new Hono();
 // Important! No trailing slash
 const allowedOrigins = new Set([
   "http://localhost:5173",                           // Local development
-  "https://blazenote-frontend.feisty-quasar.workers.dev",  // Your deployed frontend
+  "blazenote-frontend.feisty-quasar.sxplab.com",  
 ]);
 
 // https://hono.dev/docs/middleware/builtin/cors
